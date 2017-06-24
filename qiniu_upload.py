@@ -20,10 +20,10 @@ os.chdir(sys.path[0])
 
 
 # you need get yours msg here
-access_key = "AWYBn_sVDplURX00YPAuL_QsE2Ft_0Zs-Bb-Vyus"
-secret_key =  "4hZ5zc_xrIlNxqIgTq1gLOpo4wdAwfFJrkiZnziz"
-bucket_name =  "mercury"    # 填入你的七牛空间名称
-bucket_url =  "om2doplmh.bkt.clouddn.com"   # 填入你的域名地址，主要是为了记录图片上传后的地址
+access_key = ""
+secret_key =  ""
+bucket_name =  ""    # 填入你的七牛空间名称
+bucket_url =  ""   # 填入你的域名地址，主要是为了记录图片上传后的地址
 md_url_result = "md_url.txt"
 
 img_suffix = ["jpg", "jpeg", "png", "bmp", "gif"]
